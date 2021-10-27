@@ -1,17 +1,1 @@
-#include <iostream>
-class Widget {
-public:
- Widget()
- { std::cout << "Make widget" << std::endl; }
- ~Widget()
- { std::cout << "Clear widget" << std::endl; }
-};
-class Window {
-public:
- Window()
- { std::cout << "Make window" << std::endl; }
- ~Window()
- { std::cout << "Clear window" << std::endl; }
-private:
- Widget mWidget;
-};
+6732856176356812578187
