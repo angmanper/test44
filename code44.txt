@@ -1,20 +1,3 @@
-first line of code
-
-second line of code
-
-Third line of code
-
-Fourth line of code
-
-5th line of code
-
-Sixth line of code
-
-7th line
-
-8th line
-
-Ninth line of chode
 
 10 line
 
